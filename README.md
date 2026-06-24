@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Jahnavi Nimma 👋
 
-<!--
-**Jahnavi2008/Jahnavi2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI) Student at Amrita Vishwa Vidyapeetham
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Currently learning Python and Data Structures & Algorithms
+- 💻 Interested in Web Development and Artificial Intelligence
+- 🚀 Working on improving my coding and problem-solving skills
+- 🎯 Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C
+- Java
+- Python(learning)
+- HTML
+- CSS
+- Git & GitHub
+
+## Projects
+
+### RoomRadar
+Frontend website for finding PGs, hotels, and rooms based on location, budget, and preferences.
+
+### Case Study Project
+Research and analysis project focused on solving real-world problems and presenting findings.
+
+## Education
+- B.Tech CSE (AI)
+- Amrita Vishwa Vidyapeetham
+- CGPA: 8.5/10
+
+## Connect With Me
+📧 Email: nimmajahnavi2008@gmail.com
+
+🔗 GitHub: https://github.com/Jahnavi2008
